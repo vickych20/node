@@ -1,0 +1,21 @@
+.container{
+    width: 1300px;
+    display: flex;justify-content: space-between;
+    padding: 20px 0;
+   
+  
+}
+.navbar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    font-size: 24px;
+    font-size: 800;
+    
+}
+.links{
+    display: flex;
+    gap: 34px;
+}
